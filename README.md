@@ -1,10 +1,11 @@
 
 # **Tutorial: Data Manipulation and Visualization in R**
 
-
 Nicolas Cardenas
 
 February 20 2025
+
+<img src="https://github.com/user-attachments/assets/f76fbaac-a4d4-43dc-9a9d-e91f5be7ffff" width="200" />
 
 ## **Introduction**
 
