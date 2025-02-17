@@ -258,6 +258,6 @@ ggsave("weight_distribution.png", dpi = 300, width = 8, height = 6)
 
 2.  Determine the number of Pokemon that **Gengar** can defeat and present the results in a table.
 
-3.  Break down the number of Pokemon **Gengar** can defeat by their **primary type (`type_1`)** and display the results in a table.
+3.  Break down the number of Pokemon **Gengar** can defeat by their **primary type (`type_1`)** and display the results in a plot.
 
 4.  Identify the **most powerful Pokemon** and justify your decision using **data analysis and visualizations**. Support your reasoning with appropriate statistics and plots.
