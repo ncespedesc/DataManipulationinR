@@ -16,9 +16,9 @@ In this section, we will cover more advanced methods for handling and manipulati
 
 ## **Getting Started**
 
-::: {style="text-align: center;"}
+
 <img src="https://docs.posit.co/ide/user/ide/get-started/images/rstudio-panes-labeled.jpeg" width="717"/>
-:::
+
 
 ## RStudio environment
 
