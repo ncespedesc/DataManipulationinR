@@ -5,7 +5,8 @@ Nicolas Cardenas
 
 February 20 2025
 
-<img src="https://github.com/user-attachments/assets/f76fbaac-a4d4-43dc-9a9d-e91f5be7ffff" width="200" />
+<img src="https://github.com/user-attachments/assets/39c93b4f-76d7-42d6-adbe-86608eb35dee" width="200" />
+
 
 ## **Introduction**
 
