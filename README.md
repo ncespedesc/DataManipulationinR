@@ -2,7 +2,9 @@
 # **Tutorial: Data Manipulation and Visualization in R**
 
 Nicolas Cardenas
+
 VMP 979 Clinical Epidemiology
+
 February 20 2025
 
 <img src="https://github.com/user-attachments/assets/39c93b4f-76d7-42d6-adbe-86608eb35dee" width="200" />
